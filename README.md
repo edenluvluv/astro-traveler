@@ -62,12 +62,12 @@ The application provides a user-friendly interface, so it is very simple for tra
 
 AstroTraveler is designed to be eye appealing, make it available to use across various devices, from desktops to smartphones.
 
-Inspirational Element
-The inclusion of NASA's Astronomy Picture of the Day adds an educational and awe-inspiring dimension to the app, encouraging users to explore the wonders of the universe.
+--Inspirational Element
+
+The NASA's Astronomy Picture of the Day adds an awe-inspiring feature to the app, encouraging users to explore the universe and enjoy their hobby.
 
 Enjoy Your Astronomical Journey with AstroTraveler!
-Feel free to explore, customize, and contribute to the codebase. If you encounter issues or have suggestions, share your thoughts by contributing or opening an issue in the repository. Safe travels and may your journey be filled with celestial marvels!
-
+If you encounter issues or have suggestions, feel free to inform.
 
 
 
