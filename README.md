@@ -1,15 +1,15 @@
-# astro-traveler
+# **Astro-traveler**
 
-AstroTraveler - Explore the Cosmos on Your Journey
+**AstroTraveler - Explore the Cosmos on Your Journey**
 
 AstroTraveler is a web application designed for individuals with a passion for witnessing astronomical moments on their travels. This app provides information about your destination, including real-time weather updates, country details, the latest news, and the Astronomy Picture of the Day (aka APOD) from NASA. The goal is to enhance travel experience by offering the lates information of your chosen location.
 
 
-#Setup Instructions:
+## **Setup Instructions:**
 
-!!!Node.js and npm installed on your machine.
+1.Node.js and npm installed on your machine.
 
-!!!Obtain API keys for the following services:
+2.Obtain API keys for the following services:
 
 -OpenWeatherMap API: OpenWeatherMap
 
@@ -17,11 +17,11 @@ AstroTraveler is a web application designed for individuals with a passion for w
 
 -NASA API: NASA API
 
-!!!Set up node.js
+3.Set up node.js
 
-!!!install express and axios
+4.install express and axios
 
-!!!Configuration
+## **Configuration**
 
 -Create a .env file in the root of the project.
 
@@ -33,13 +33,13 @@ NEWS_API_KEY=your_news_api_key
 
 NASA_API_KEY=your_nasa_api_key
 
--Runthe Application
+-Run the Application
 
-npm start
+> npm start
 
 -Open your web browser and go to http://localhost:3000.
 
-#Features
+## **Features**
 1. Weather Information
 Enter the coordinates of your destination, and AstroTraveler will fetch real-time weather data.
 
@@ -52,7 +52,7 @@ Stay informed about the latest events in your destination place with the top3 ne
 4. Astronomy Picture of the Day (NASA APOD)
 Witness the beauty of the cosmos with NASA's Astronomy Picture of the Day.
 
-#Design Decisions
+## **Design Decisions**
 
 --User-Centric Interface
 
@@ -66,8 +66,8 @@ AstroTraveler is designed to be eye appealing, make it available to use across v
 
 The NASA's Astronomy Picture of the Day adds an awe-inspiring feature to the app, encouraging users to explore the universe and enjoy their hobby.
 
-Enjoy Your Astronomical Journey with AstroTraveler!
-If you encounter issues or have suggestions, feel free to inform.
+### Enjoy Your Astronomical Journey with AstroTraveler!
+### If you encounter issues or have suggestions, feel free to inform.
 
 
 
